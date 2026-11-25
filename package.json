@@ -1,0 +1,1 @@
+{"author":"jehan771","description":"make.fun entry: the one word to erase from the dictionary forever — irregardless","license":"MIT","main":"main.ts","name":"word-to-delete-from-dictionary","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
